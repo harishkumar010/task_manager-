@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+dist/
+task-manager-ui/node_modules/
+task-manager-ui/dist/
+.angular/
+
+# .NET / C#
+bin/
+obj/
+TaskManager.API/bin/
+TaskManager.API/obj/
+*.db
+*.db-shm
+*.db-wal
+appsettings.Development.json
+
+# IDE
+.vscode/
+.vs/
+*.user
+*.suo
+.idea/
