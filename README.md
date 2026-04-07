@@ -1,6 +1,6 @@
 # Full-Stack Task Management Application
 
-A complete Task Management web application built using **ASP.NET Core Web API** for the backend and modern **Angular 17+ (Standalone Components)** for the frontend.
+A complete Task Management web application built using **ASP.NET Core Web API** for the backend and modern **Angular 17+ ** for the frontend.
 
 ## Features
 - **JWT Authentication** (Register & Login mechanisms).
